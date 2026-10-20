@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        " Your a nobb arent you"
+        " I like the server"
       ]
     },
     "chat-log": true,
