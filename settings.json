@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FriendZoneSMP.aternos.me",
-    "port": 13983,
+    "ip": "astralmc.playserver.pro",
+    "port": 12526,
     "version": "",
     "try-creative": false
   },
